@@ -1,4 +1,4 @@
-- 💼 Sistema de Recomendação de Viagem
+# 💼 Sistema de Recomendação de Viagem
 
 Projeto em Python desenvolvido na Prática.
 O sistema recomenda destinos de viagem com base nas preferências do usuário.
