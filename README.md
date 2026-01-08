@@ -1,9 +1,9 @@
-# Sistema de Recomendação de Viagem
+💼# Sistema de Recomendação de Viagem
 
-Projeto em Python desenvolvido na prática da disciplina **Fundamentos de Python para IA**.  
+Projeto em Python desenvolvido na Prática.
 O sistema recomenda destinos de viagem com base nas preferências do usuário.
 
-## Como usar
+😎## Como usar
 1. Abra o arquivo `recomendacao_viagem.py` no **VS Code**.
 2. No terminal, execute:
    ```bash
